@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bahri Berke Ok
 - 👀 I’m interested in Front-End and Back-End Development
-- 🌱 I’m currently learning Javascript and It's frameworks
+- 🌱 I’m currently working with ReactJS
 - 💞️ I’m looking to collaborate on making unique Responsive Web Design
 - 📫 How to reach me okberke1907@gmail.com
 
